@@ -17,7 +17,7 @@
   {
   _putchar(alphabet);
   }
-  count++:
+  count++;
   _putchar('\n');
   }
  
